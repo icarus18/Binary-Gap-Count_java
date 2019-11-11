@@ -11,12 +11,10 @@ public class gapCount {
 		boolean t = true;
 		while(t)
 		{
-		
 			System.out.print("Please Enter Integer(-9 to exit): ");
 			Scanner in = new Scanner(System.in);
 			int N = in.nextInt();
 			
-		
 		if(N ==-9)
 		{
 			break;
